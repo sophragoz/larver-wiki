@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Larver Vanilla wiki"
+  name: "Larver Vanilla"
   text: "Вики"
-  tagline: My great project tagline
+  tagline: Статьи для приватного майнкрафт сервера
   actions:
     - theme: brand
       text: Markdown Examples
