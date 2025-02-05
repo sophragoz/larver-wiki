@@ -7,7 +7,7 @@ hero:
   tagline: Статьи для приватного майнкрафт сервера
   actions:
     - theme: brand
-      text: Начать чтение
+      text: Начало
       link: /introduction
     - theme: alt
       text: Телеграм канал
