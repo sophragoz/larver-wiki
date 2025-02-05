@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Larver Vanilla wiki",
+  title: "Larver Vanilla",
   description: "Вики",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
