@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Если вы еще не играете на сервере.
+    details: Рекомендую подать заявку в телеграм канале @larver
+  - title: Зачем нужен вики?
+    details: созданно для более удобного просмотра информации об сервере. В отличии от сообщений в телеграме все статьи/посты разложенны красиво по отдельным папкам и статьям.
+  - title: Вы можете внести вклад.
+    details: Сама вики работает на открытом движке vitepress, а сам сайт распологается на гитхабе проекта, если вы хотите написать статью то рекомендую ознакомится с markdown форматированием и расположением статей в github
 ---
 
