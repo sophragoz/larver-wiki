@@ -25,11 +25,11 @@
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
 
- /* Component: Button */
 :root {
   --vp-button-brand-border: transparent;
   --vp-button-brand-text: var(--vp-c-white);
-  --vp-button-brand-bg: var(--vp-c-brand-3);
+  /*--vp-button-brand-bg: var(--vp-c-brand-3);*/
+  --vp-button-brand-bg: #ed7118;
   --vp-button-brand-hover-border: transparent;
   --vp-button-brand-hover-text: var(--vp-c-white);
   --vp-button-brand-hover-bg: var(--vp-c-brand-2);
@@ -38,7 +38,6 @@
   --vp-button-brand-active-bg: var(--vp-c-brand-1);
 }
 
-/* Component: Home */
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
@@ -67,7 +66,6 @@
   }
 }
 
-/* Component: Custom Block */
 :root {
   --vp-custom-block-tip-border: transparent;
   --vp-custom-block-tip-text: var(--vp-c-text-1);
@@ -75,7 +73,6 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
-/* Component: Algolia */
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
