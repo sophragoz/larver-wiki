@@ -19,6 +19,10 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Начало',
+        items: [
+
+        ],
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
