@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Начать чтение
-      link: /markdown-examples
+      link: /introduction
     - theme: alt
       text: Телеграм канал
       link: https://t.me/larver
