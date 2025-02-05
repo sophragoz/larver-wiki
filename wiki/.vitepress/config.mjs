@@ -1,11 +1,17 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Larver Vanilla",
   description: "Вики",
+  head: [
+    ["link", { rel: "icon", href: "/logo.png" }],
+    ["meta", { name: "darkreader-lock" }]
+  ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      dark: "/logo.png",
+      light: "/logo.png"
+    },
     nav: [
       { text: 'Домашняя страница', link: '/' },
       { text: 'Статьи', link: '/markdown-examples' }
