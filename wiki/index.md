@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Телеграм канал
       link: https://t.me/larver
+    - theme: alt
+      text: Онлайн карта
+      link: https://map.larver.ru
 
 features:
   - title: Если вы еще не играете на сервере.
