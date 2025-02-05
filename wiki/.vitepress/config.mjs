@@ -14,19 +14,15 @@ export default defineConfig({
     },
     nav: [
       { text: 'Домашняя страница', link: '/' },
-      { text: 'Статьи', link: '/markdown-examples' }
+      { text: 'Статьи', link: '/introduction' }
     ],
 
     sidebar: [
       {
-        text: 'Начало',
+        text: 'Основное',
         items: [
-
-        ],
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Введение', link: '/introduction' },
+          { text: 'Создание/публикование статьи', link: '/create-article' }
         ]
       }
     ],
