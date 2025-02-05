@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Домашняя страница', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
@@ -22,7 +22,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'telegram', link: 'https://t.me/larver' }
+      { icon: 'telegram', link: 'https://t.me/larver' },
+      { icon: 'github', link: 'https://github.com/sophragoz/larver-wiki'}
     ]
   }
 })
