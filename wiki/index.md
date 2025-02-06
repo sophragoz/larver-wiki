@@ -10,9 +10,6 @@ hero:
       text: Начало
       link: /introduction
     - theme: alt
-      text: Телеграм канал
-      link: https://t.me/larver
-    - theme: alt
       text: Онлайн карта
       link: https://map.larver.ru
 
