@@ -4,13 +4,13 @@ export default defineConfig({
   title: "Larver Vanilla",
   description: "Вики",
   head: [
-    ["link", { rel: "icon", href: "/logo.png" }],
+    ["link", { rel: "icon", href: "/logo-dark.png" }],
     ["meta", { name: "darkreader-lock" }]
   ],
   themeConfig: {
     logo: {
-      dark: "/logo.png",
-      light: "/logo.png"
+      dark: "/logo-dark.png",
+      light: "/logo-light.png"
     },
     nav: [
       { text: 'Домашняя страница', link: '/' },
