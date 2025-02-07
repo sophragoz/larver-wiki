@@ -7,8 +7,8 @@ hero:
   tagline: Статьи для приватного майнкрафт сервера
   actions:
     - theme: brand
-      text: Начало
-      link: /introduction
+      text: Об сервере
+      link: /server-info
     - theme: alt
       text: Онлайн карта
       link: https://map.larver.ru

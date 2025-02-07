@@ -14,14 +14,14 @@ export default defineConfig({
     },
     nav: [
       { text: 'Домашняя страница', link: '/' },
-      { text: 'Статьи', link: '/introduction' }
+      { text: 'Статьи', link: '/server-info' }
     ],
 
     sidebar: [
       {
         text: 'Основное',
         items: [
-          { text: 'Введение', link: '/introduction' },
+          { text: 'Введение', link: '/server-info' },
           { text: 'Создание/публикование статьи', link: '/create-article' }
         ]
       }
