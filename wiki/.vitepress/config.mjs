@@ -21,7 +21,7 @@ export default defineConfig({
       {
         text: 'Основное',
         items: [
-          { text: 'Введение', link: '/server-info' },
+          { text: 'Об сервере', link: '/server-info' },
           { text: 'Создание/публикование статьи', link: '/create-article' }
         ]
       }
