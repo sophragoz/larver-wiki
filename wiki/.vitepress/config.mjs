@@ -22,6 +22,7 @@ export default defineConfig({
         text: 'Основное',
         items: [
           { text: 'Об сервере', link: '/server-info' },
+          { text: 'Правила', link: '/server-rules' },
           { text: 'Создание/публикование статьи', link: '/create-article' }
         ]
       }
